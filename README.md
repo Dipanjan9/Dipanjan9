@@ -1,4 +1,4 @@
-<h2>Welcome 🙏🏻, I'm Dipanjan Ghosh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Welcome 🙏🏻, I'm Dipanjan Ghosh! <img src="https://media.giphy.com/media/yhfTY8JL1wIAE/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f0SFw1gXlmkc8/giphy.gif" height="300" width="230">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dipanja95399353?label=Follow)
