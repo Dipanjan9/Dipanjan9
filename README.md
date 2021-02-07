@@ -12,3 +12,8 @@
 - 👯 I’m looking to collaborate on JavaScript and Python based Data Analytics and Web Development Projects
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: 
+
+[twitter]: https://twitter.com/Dipanja95399353
+[youtube]: https://www.youtube.com/channel/UC8lKX8xQmbHFfmWdj_pF0zg
+[instagram]: https://instagram.com/prsmicjazz
+[linkedin]: https://linkedin.com/in/dipanjan-g-72646211a
