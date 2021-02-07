@@ -1,9 +1,17 @@
-### Hi there 👋
+<h2>Welcome 🙏🏻, I'm Dipanjan Ghosh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**Dipanjan9/Dipanjan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?label=Follow)
+![GitHub followers](https://img.shields.io/github/followers/Dipanjan9?label=Follow&style=social)
 
-Here are some ideas to get you started:
+<p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning Algorithms and GIS (Geo information System)
+- 👯 I’m looking to collaborate on JavaScript and Python based Data Analytics and Web Development Projects
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- 📫 How to reach me: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
