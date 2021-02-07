@@ -1,5 +1,5 @@
 <h2>Welcome 🙏🏻, I'm Dipanjan Ghosh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="500" width="230">
+<img align='right' src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" height="400" width="230">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dipanja95399353?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/Dipanjan9?label=Follow&style=social)
