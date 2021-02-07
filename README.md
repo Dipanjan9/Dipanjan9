@@ -12,6 +12,10 @@
 - 👯 I’m looking to collaborate on JavaScript and Python based Data Analytics and Web Development Projects
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me: 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7?highlight=spotify:track:1pqT8dY3ti8vrjdxRnhi9g)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
