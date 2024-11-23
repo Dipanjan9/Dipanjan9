@@ -1,53 +1,50 @@
-<h2>Welcome 🙏🏻, I'm Dipanjan Ghosh! <img src="https://media.giphy.com/media/yhfTY8JL1wIAE/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/gLKanHorsDLDpEw9q4/giphy.gif" height="300" width="230">
+# 👋 Hi, I'm Dipanjan Ghosh!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Dipanja95399353?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/Dipanjan9?label=Follow&style=social)
+🚀 **Data Analyst | Big Data Enthusiast | Educator**  
+🌍 Based in Hyderabad, India  
 
-<p><em>Studying Computer Science and Engineering at <a href="http://gcettb.ac.in">GCETTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+Welcome to my GitHub profile! I’m passionate about leveraging data to solve complex problems, building efficient pipelines, and ensuring data reliability. With a strong background in analytics, automation, and teaching, I aim to make a meaningful impact in the tech world.
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning Algorithms and GIS (Geo information System)
-- 👯 I’m looking to collaborate on JavaScript and Python based Data Analytics and Web Development Projects
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- 📫 How to reach me: 
-### Spotify Playing 🎧
+---
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7?highlight=spotify:track:1pqT8dY3ti8vrjdxRnhi9g)
+## 💼 Professional Experience
 
-### Connect with me:
+### Analyst - Data Reliability & Operations, **Fanatics Inc**  
+*August 2021 – Present | Hyderabad, India*  
+- Ensured **99% uptime** for Big Data pipelines by analyzing performance metrics and troubleshooting issues.  
+- Automated monitoring and alert systems, reducing manual checks by **60%** and improving incident response times.  
+- Designed and managed a centralized error log database, cutting resolution times by **30%**.  
+- Implemented **AWS Kinesis Firehose** and **AWS Glue ETL pipelines**, boosting data processing efficiency by **25%**.  
+- Collaborated with cross-functional teams to resolve issues and optimize workflows, directly enhancing product reliability.  
+- **Key Achievement:** Proposed solutions that improved system uptime, enhanced user satisfaction, and reduced operational costs.
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Coding Instructor, **Toppr**  
+*April 2021 – July 2021 | Mumbai, India*  
+- Taught **Python** and **JavaScript** to over 100 students, driving a **50% increase** in student retention through engaging methods and effective curriculum delivery.
 
-[twitter]: https://twitter.com/Dipanja95399353
-[youtube]: https://www.youtube.com/channel/UC8lKX8xQmbHFfmWdj_pF0zg
-[instagram]: https://instagram.com/prsmicjazz
-[linkedin]: https://linkedin.com/in/dipanjan-g-72646211a
+---
 
-<br />
+## 🛠️ Skills & Tools  
+- **Programming Languages:** Python, JavaScript  
+- **Data Tools:** AWS Kinesis, AWS Glue, ETL Pipelines, Big Data Processing  
+- **DevOps & Automation:** Monitoring Systems, Error Logging, Data Reliability  
+- **Soft Skills:** Cross-functional Collaboration, Problem-Solving, Teaching  
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+## 🌐 Connect With Me  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipanjan%20Ghosh-blue)](https://www.linkedin.com/in/dipanjan-g-72646211a)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Dipanjan9-lightgrey)](https://github.com/Dipanjan9)  
+- 📧 Email: dipanjanghosh430@gmail.com  
+- 📞 Phone: +91 9088029355  
 
+---
 
+## 📈 GitHub Stats  
+![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipanjan9&show_icons=true&theme=radical)
 
-<br />
-<br />
+---
 
-![Dipanjan's Github Stats](https://github-readme-stats.vercel.app/api?username=Dipanjan9&show_icons=true)
+## 🚀 Let's Collaborate!  
+I'm always excited to collaborate on projects involving Big Data, automation, or innovative educational tools. Feel free to reach out!
+
