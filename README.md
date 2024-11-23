@@ -41,7 +41,8 @@ Welcome to my GitHub profile! I’m passionate about leveraging data to solve co
 ---
 
 ## 📈 GitHub Stats  
-![Dipanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipanjan9&show_icons=true&theme=radical)
+![Dipanjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipanjan9&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanjan9&layout=compact&theme=radical)
 
 ---
 
