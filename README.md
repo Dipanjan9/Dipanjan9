@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m passionate about leveraging data to solve co
 
 ## 💼 Professional Experience
 
-### Analyst - Data Reliability & Operations, **Fanatics Inc**  
+### Analyst - Data Reliability Engineering, **Fanatics Inc**  
 *August 2021 – Present | Hyderabad, India*  
 - Ensured **99% uptime** for Big Data pipelines by analyzing performance metrics and troubleshooting issues.  
 - Automated monitoring and alert systems, reducing manual checks by **60%** and improving incident response times.  
