@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipanjan Ghosh!
 
-🚀 **Data Analyst | Big Data Enthusiast | Educator**  
+🚀 **Data Engineer | Big Data Enthusiast | Educator**  
 🌍 Based in Hyderabad, India  
 
 Welcome to my GitHub profile! I’m passionate about leveraging data to solve complex problems, building efficient pipelines, and ensuring data reliability. With a strong background in analytics, automation, and teaching, I aim to make a meaningful impact in the tech world.
